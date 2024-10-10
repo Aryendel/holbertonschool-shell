@@ -1,2 +1,2 @@
 #!/bin/bash
-cp --basics *.csv /holbertonschool-shell
+cp --parents *.html /holbertonschool-shell/
