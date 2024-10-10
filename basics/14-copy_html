@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -u --parents *.html /holbertonschool-shell/
+cp -u *.html --parents
