@@ -1,0 +1,2 @@
+#§/bin/bash
+echo "$((16#$DECIMAL))"
